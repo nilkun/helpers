@@ -19,7 +19,7 @@ Includes a 2D vector class, an asset manager, a canvas manager, and a polygon cr
 -- 0.13 --
     April 9
 
-    Included polygon class
+    Added polygon class
     Added assets manager
     Vector class updated
 ----------------------------------
